@@ -4,7 +4,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
 
 **DispatchPro** is a modern, high-performance inventory dispatch implementation designed to enforce **100% accuracy** in order fulfillment. By integrating barcode verification directly into the dispatch workflow, it eliminates human error and ensures that every package leaves the warehouse exactly as ordered.
 
